@@ -45,3 +45,4 @@ More info on where data come from and how it's structured, source: Kaggle.
 
 6. Screenshot
 
+Amazon Sales Dashboard.png
