@@ -46,4 +46,4 @@ More info on where data come from and how it's structured, source: Kaggle.
 
 6. Screenshot of the Dashboard
 
-https://github.com/Goutamee/Amazon_Sales_Dashboard/blob/main/Amazon%20Sales%20Dashboard.png?raw=true
+https://github.com/Goutamee/Amazon_Sales_Dashboard/blob/main/Amazon%20Sales%20Dashboard.png
