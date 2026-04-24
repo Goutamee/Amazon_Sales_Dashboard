@@ -1,6 +1,7 @@
-Amazon Sales Dashboard
+**Amazon Sales Dashboard**
 
 1. Headline
+
 Amazon.in Sales & Order Analytics Dashboard (2022)
 
 2. Purpose
