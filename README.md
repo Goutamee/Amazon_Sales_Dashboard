@@ -44,6 +44,6 @@ More info on where data come from and how it's structured, source: Kaggle.
 - Time-Series Trends — Sales and order volume trends over the reporting period
 - Interactive Filters/Slicers — Filter by category, state, fulfillment type, order status, and date range
 
-6. Screenshot
+6. Screenshot of the Dashboard
 
-Amazon Sales Dashboard.png
+https://github.com/Goutamee/Amazon_Sales_Dashboard/blob/main/Amazon%20Sales%20Dashboard.png?raw=true
