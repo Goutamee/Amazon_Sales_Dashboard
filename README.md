@@ -1,4 +1,4 @@
-**Amazon Sales Dashboard**
+# Amazon Sales Dashboard
 
 1. Headline
 
