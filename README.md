@@ -18,8 +18,8 @@ This dashboard provides an end-to-end analysis of Amazon India's sales operation
 
 4. Data Source
 
-More info on where data come from and how it's structured, source: Kaggle.
-
+**More info on where data come from and how it's structured.**
+- **Source: Kaggle.**
 - File: `Amazon_Sales_Report.xlsx`
 - Sheet: `Amazon Sale Report`
 - Records: ~20,000 orders
